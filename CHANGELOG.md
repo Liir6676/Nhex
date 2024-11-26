@@ -1,45 +1,15 @@
 # Changelog
 
-## Add TypeScript support (2016-07-23)
+## [Unreleased]
+- No unreleased changes
 
-### New
+## 26/11/2024
 
-- Now added Typescript support.
-- Some other new stuffs.
+- Nhex website general redesign 
+- Added Changelog
+- 
+- Redesigned Nhex website(thanks @Liir)
+- Added community friendly footer links
+- 
 
-### Fix
 
-- Fixed some babel problems.# My Website
-
-## Add TypeScript support (2016-07-23)
-
-### New
-
-- Now added Typescript support.
-- Some other new stuffs.
-
-### Fix
-
-- Fixed some babel problems.# My Website
-
-## Add TypeScript support (2016-07-23)
-
-### New
-
-- Now added Typescript support.
-- Some other new stuffs.
-
-### Fix
-
-Fixed some babel problems.# My Website
-
-## Add TypeScript support (2016-07-23)
-
-### New
-
-- Now added Typescript support.
-- Some other new stuffs.
-
-### Fix
-
-Fixed some babel problems.
