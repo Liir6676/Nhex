@@ -1,5 +1,7 @@
 # Changelog
+
 ## [Unreleased]
+
 - No unreleased changes at the moment
 - Added
 - Updated Army names in context menu
@@ -7,6 +9,7 @@
 - Fixed Partizans HQ Feature color bug (Instruction too)
 
 ## 26/11/2024
+
 - Nhex website general redesign (thanks @Liir)
 - Added Changelog (thanks @Liir)
 - Added community friendly footer links (thanks @baktrius)
