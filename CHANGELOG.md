@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 
-[//]: # - No unreleased changes at the moment
+<!--- - No unreleased changes at the moment--->
 - Added
 - Updated Army names in context menu
 - Improved Resources Template
