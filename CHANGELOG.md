@@ -1,4 +1,4 @@
-# My Website
+# Changelog
 
 ## Add TypeScript support (2016-07-23)
 
