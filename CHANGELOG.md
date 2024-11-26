@@ -25,5 +25,7 @@
 - Fixed Get Random bugs
 - Fixed context menu Utility names visual bug
 - Fixed Token Spawner color and highlighted visual bug
-___
+
+_ _ _
+
 Changes prior to 26/11/2024 was not documented using this format
