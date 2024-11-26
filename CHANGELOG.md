@@ -9,7 +9,7 @@
 
 ### Fix
 
-Fixed some babel problems.# My Website
+- Fixed some babel problems.# My Website
 
 ## Add TypeScript support (2016-07-23)
 
