@@ -3,7 +3,7 @@
 ## [Unreleased]
 
 <!--- - No unreleased changes at the moment--->
-- Added
+- New Dedicated HexBoard
 - Updated Army names in context menu
 - Improved Resources Template
 - Fixed Partizans HQ Feature color bug (Instruction too)
