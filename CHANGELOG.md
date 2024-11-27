@@ -4,30 +4,30 @@
 
 <!---       - No unreleased changes at the moment          --->
 - New Dedicated HexBoard
-- Updated Army names in context menu
-- Improved Resources Template
-- Fixed Partizans HQ Feature color bug (Instruction too)
+- Update Army names in context menu
+- Improve Resources Template
+- Fix Partizans HQ ability color bug (Instruction too)
 
 ## 27/11/2024
 
-- Added Sticky Points standard for Nhex HexBoards
-- Added Troglodytes Reverse
-- Added Pirates Reverse
-- Added Sand Runners Reverse
-- Added Pirates HP Marker
-- Added Doomsday Machine HP Marker
-- Added Vegas HP Marker
-- Added Sand Runners HP Marker
-- Added Troglodytes HP Marker
-- Added Merchant Guilds HP Marker
-- Added Uranopolis HP Marker
-- Added Dancer HP Marker
-- Improved Merchant Guilds Reverse
-- Improved Mephisto Markers orientation
-- Improved Iron Gang Markers orientation
-- Equalized some Tokens & Markers colors
-- Standardized the Markers order (HP is always 1st except for Partisans- known issue)
-- Removed unnecessary Markers (Merchant Guilds have only 4 units with passive ability, most Sharrash players using up to one Paralyze Marker, Iron Gang had two HP Markers & 3 Net Markers etc.)
+- Added Sticky Points standard for Nhex HexBoards (thanks @Liir)
+- Added Troglodytes Reverse (thanks @Liir)
+- Added Pirates Reverse (thanks @Liir)
+- Added Sand Runners Reverse (thanks @Liir)
+- Added Pirates HP Marker (thanks @Liir)
+- Added Doomsday Machine HP Marker (thanks @Liir)
+- Added Vegas HP Marker (thanks @Liir)
+- Added Sand Runners HP Marker (thanks @Liir)
+- Added Troglodytes HP Marker (thanks @Liir)
+- Added Merchant Guilds HP Marker (thanks @Liir)
+- Added Uranopolis HP Marker (thanks @Liir)
+- Added Dancer HP Marker (thanks @Liir)
+- Improved Merchant Guilds Reverse (thanks @Liir)
+- Improved Mephisto Markers orientation (thanks @Liir)
+- Improved Iron Gang Markers orientation (thanks @Liir)
+- Equalized some Tokens & Markers colors (thanks @Liir)
+- Standardized the Markers order- HP is always 1st except for Partisans- known issue (thanks @Liir)
+- Removed unnecessary Markers- Merchant Guilds have only 4 units with passive ability, most Sharrash players using up to one Paralyze Marker, Iron Gang had two HP Markers & 3 Net Markers etc. (thanks @Liir)
 
 
 ## 26/11/2024
@@ -35,18 +35,18 @@
 - Nhex website general redesign (thanks @Liir)
 - Added Changelog (thanks @Liir)
 - Added community friendly footer links (thanks @baktrius)
-- Added option to edit army
-- Added different submenus for custom and private armies
-- Added Get Random for every army group
-- Added shortcuts to spawn Nets & Wounds
-- Added option to order Armies in contextmenu
-- Updated Edit Token Template now remember latest image
-- Improved security
-- Improved stability
-- Fixed Named Invitations list bug
-- Fixed Get Random bugs
-- Fixed context menu Utility names visual bug
-- Fixed Token Spawner color and highlighted visual bug
+- Added option to edit army (thanks @baktrius)
+- Added different submenus for custom and private armies (thanks @baktrius)
+- Added Get Random for every army group (thanks @baktrius)
+- Added shortcuts to spawn Nets & Wounds (thanks @baktrius)
+- Added option for Admin to order Armies in contextmenu (thanks @baktrius)
+- Updated Edit Token Template now remember latest image (thanks @baktrius)
+- Improved security (thanks @baktrius)
+- Improved stability (thanks @baktrius)
+- Fixed Named Invitations list bug (thanks @baktrius)
+- Fixed Get Random bugs (thanks @baktrius)
+- Fixed context menu Utility names visual bug (thanks @baktrius)
+- Fixed Token Spawner color and highlighted visual bug (thanks @baktrius)
 
 _ _ _
 
