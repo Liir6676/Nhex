@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 
-####       No unreleased changes at the moment     
+####  No unreleased changes at the moment     
 - New Dedicated HexBoard
 - Update Army names in context menu
 - Improve Resources Template
