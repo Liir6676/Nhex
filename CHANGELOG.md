@@ -26,13 +26,13 @@
 - Improved Mephisto Markers orientation (thanks @Liir)
 - Improved Iron Gang Markers orientation (thanks @Liir)
 - Equalized some Tokens & Markers colors (thanks @Liir)
-- Standardized the Markers order- HP is always 1st except for Partisans- known issue (thanks @Liir)
-- Removed unnecessary Markers- Merchant Guilds have only 4 units with passive ability, most Sharrash players using up to one Paralyze Marker, Iron Gang had two HP Markers & 3 Net Markers etc. (thanks @Liir)
+- Standardized the Markers order- HP is always first except for Partisans which is known issue (thanks @Liir)
+- Removed unnecessary Markers: Merchant Guilgmost Sharrash players using up to one Paralyze Marker, Iron Gang had two HP Markers & 3 Net Markers etc. (thanks @Liir)
 
 
 ## 26/11/2024
 
-- Nhex website general redesign (thanks @Liir)
+- Redesigned entire Nhex website (thanks @Liir)
 - Added Changelog (thanks @Liir)
 - Added community friendly footer links (thanks @baktrius)
 - Added option to edit army (thanks @baktrius)
