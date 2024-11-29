@@ -7,6 +7,13 @@
 - Update Army names in context menu
 - Improve Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
+- Create Changelog labels order system
+
+## 30/11/2024
+
+- Redesigned Changelog (thanks @Liir)
+- Added colors to the nicknames of the most deserving members in the Changelog (thanks @Liir)
+- Added labels to Changelog (thanks @Liir)
 
 ## 27/11/2024
 
@@ -47,6 +54,7 @@
 - Fixed Get Random bugs (thanks @baktrius)
 - Fixed context menu Utility names visual bug (thanks @baktrius)
 - Fixed Token Spawner color and highlighted visual bug (thanks @baktrius)
+- Security Nhex now uses https (thanks @Netq)
 
 _ _ _
 
