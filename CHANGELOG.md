@@ -4,10 +4,11 @@
 
 ####  No unreleased changes at the moment     
 - New Dedicated HexBoard
+- Add Changelog labels order system
 - Update Army names in context menu
 - Improve Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
-- Create Changelog labels order system
+
 
 ## 30/11/2024
 
