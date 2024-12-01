@@ -1,8 +1,10 @@
+####  Kolejność: special label, new, add/added, update/updated, improve/improved, fix/fixed, remove/removed, security
+####  No unreleased changes at the moment    
+
 # Changelog
 
 ## [Unreleased]
-
-####  No unreleased changes at the moment     
+ 
 - New Dedicated HexBoard
 - Add Changelog labels order system
 - Update Army names in context menu
@@ -18,6 +20,7 @@
 
 ## 27/11/2024
 
+- Equalized some Tokens & Markers colors (thanks @Liir)
 - Added Sticky Points standard for Nhex HexBoards (thanks @Liir)
 - Added Troglodytes Reverse (thanks @Liir)
 - Added Pirates Reverse (thanks @Liir)
@@ -34,7 +37,6 @@
 - Improved Mephisto Markers orientation (thanks @Liir)
 - Improved Iron Gang Markers orientation (thanks @Liir)
 - Improved the Markers order- HP is always first except for Partisans which is known issue (thanks @Liir)
-- Equalized some Tokens & Markers colors (thanks @Liir)
 - Removed unnecessary Markers: Most Sharrash players using up to one Paralyze Marker, Iron Gang had two HP Markers & 3 Net Markers etc. (thanks @Liir)
 
 
