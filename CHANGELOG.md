@@ -32,8 +32,8 @@
 - Improved Merchant Guilds Reverse (thanks @Liir)
 - Improved Mephisto Markers orientation (thanks @Liir)
 - Improved Iron Gang Markers orientation (thanks @Liir)
+- Improved the Markers order- HP is always first except for Partisans which is known issue (thanks @Liir)
 - Equalized some Tokens & Markers colors (thanks @Liir)
-- Standardized the Markers order- HP is always first except for Partisans which is known issue (thanks @Liir)
 - Removed unnecessary Markers: Most Sharrash players using up to one Paralyze Marker, Iron Gang had two HP Markers & 3 Net Markers etc. (thanks @Liir)
 
 
