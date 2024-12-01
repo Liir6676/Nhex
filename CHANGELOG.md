@@ -10,7 +10,7 @@
 - Improve Changelog's design into look as text bubble
 - Improve ⏵Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
-- Fix 
+- Fix bug that close Changelog wherever you click
 
 ## 02/12/2024
 
