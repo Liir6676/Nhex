@@ -1,4 +1,4 @@
-####  Kolejność: special label, new, add/added, update/updated, improve/improved, fix/fixed, remove/removed, security
+####  Kolejność: special labels, new, add/added, improve/improved, fix/fixed, remove/removed, security
 ####  No unreleased changes at the moment    
 
 # Changelog
