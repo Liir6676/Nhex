@@ -8,7 +8,6 @@
 - New Dedicated HexBoard
 - New army Desert Tribes
 - Improve Army names in context menu
-- Improve Changelog's design into look as text bubble
 - Improve ⏵Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
 - Fix bug that close Changelog wherever you click
@@ -19,10 +18,11 @@
 - Added all Changelog labels (thanks @Liir)
 - Added hexagonal background to Changelog (thanks @Liir)
 - Added a line dividing updates (thanks @Liir)
+- Improved Changelog's appearance. Now it's look like text bubble
 
 ## 30/11/2024
 
-- Redesigned Changelog (thanks @Liir)
+- Redesigned Changelog's look (thanks @Liir)
 - Added colors to the nicknames of the most deserving members in the Changelog (thanks @Liir)
 - Added labels to Changelog (thanks @Liir)
 
@@ -49,7 +49,7 @@
 
 ## 26/11/2024
 
-- Redesigned entire Nhex website (thanks @Liir)
+- Redesigned entire Nhex website look (thanks @Liir)
 - Added Changelog (thanks @Liir)
 - Added community friendly footer links (thanks @baktrius)
 - Added option to edit army (thanks @baktrius)
