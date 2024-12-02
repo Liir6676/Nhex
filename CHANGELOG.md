@@ -6,6 +6,7 @@
 ## [Unreleased]
  
 - New Dedicated HexBoard
+- New army Desert Tribes
 - Improve Army names in context menu
 - Improve Changelog's design into look as text bubble
 - Improve ⏵Resources Template
