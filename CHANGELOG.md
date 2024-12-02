@@ -6,7 +6,7 @@
 ## [Unreleased]
  
 - New Dedicated HexBoard
-- Update Army names in context menu
+- Improve Army names in context menu
 - Improve Changelog's design into look as text bubble
 - Improve ⏵Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
@@ -55,9 +55,9 @@
 - Added Get Random for every army group (thanks @baktrius)
 - Added shortcuts to spawn Nets & Wounds (thanks @baktrius)
 - Added option for Admin to order Armies in contextmenu (thanks @baktrius)
-- Updated ⏵Tokens Edit Template now remember latest image (thanks @baktrius)
 - Improved security (thanks @baktrius)
 - Improved stability (thanks @baktrius)
+- Fixed ⏵Tokens Edit Template now remember latest image (thanks @baktrius)
 - Fixed ⏵Table Named Invitations list bug (thanks @baktrius)
 - Fixed Get Random bugs (thanks @baktrius)
 - Fixed context menu Utility names visual bug (thanks @baktrius)
