@@ -17,6 +17,8 @@
 
 - Added Changelog labels order system (thanks @Liir)
 - Added all Changelog labels (thanks @Liir)
+- Added hexagonal background to Changelog (thanks @Liir)
+- Added a line dividing updates (thanks @Liir)
 
 ## 30/11/2024
 
