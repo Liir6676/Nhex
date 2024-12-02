@@ -45,7 +45,7 @@
 - Improved the Markers order- HP is always first except for Partisans which is known issue (thanks @Liir)
 - Removed unnecessary Markers: Most Sharrash players using up to one Paralyze Marker, Iron Gang had two HP Markers & 3 Net Markers etc. (thanks @Liir)
 
-
+***
 ## 26/11/2024
 
 - Redesigned entire Nhex website (thanks @Liir)
