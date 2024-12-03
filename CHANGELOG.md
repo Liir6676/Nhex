@@ -6,11 +6,11 @@
 ## [Unreleased]
  
 - New Dedicated HexBoard
-- New army Desert Tribes
-- Improve Army names in context menu
+- New official army Desert Tribes
+- Improve official armies names in context menu
 - Improve ⏵Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
-- 
+* * *
 - Add Support Us in the footer
 
 ## 02/12/2024
