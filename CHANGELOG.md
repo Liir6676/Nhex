@@ -10,7 +10,12 @@
 - Improve Army names in context menu
 - Improve ⏵Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
-- Fix bug that close Changelog wherever you click
+- 
+- Add Support Us in the footer
+
+## 02/12/2024
+
+- Improved Changelog show/hide functionality (thanks @Liir)
 
 ## 02/12/2024
 
@@ -18,7 +23,7 @@
 - Added all Changelog labels (thanks @Liir)
 - Added hexagonal background to Changelog (thanks @Liir)
 - Added a line dividing updates (thanks @Liir)
-- Improved Changelog's appearance. Now it's look like text bubble
+- Improved Changelog's appearance. Now it's look like text bubble (thanks @Liir)
 
 ## 30/11/2024
 
