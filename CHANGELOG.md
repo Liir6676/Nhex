@@ -10,8 +10,10 @@
 - Improve official armies names in context menu
 - Improve ⏵Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
-* * *
-- Add Support Us in the footer
+
+## 07/12/2024
+
+- Added ⏵Support in footer links (thanks @Liir)
 
 ## 02/12/2024
 
