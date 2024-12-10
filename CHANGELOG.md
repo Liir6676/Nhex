@@ -13,9 +13,10 @@
 
 ## 07/12/2024
 
-- Added footer links (thanks @baktrius)
-- Added ⏵Support into footer links (thanks @Liir)
+- Added footer links support (thanks @baktrius)
 - Added helpful links to the footer (thanks @Liir)
+- Added ⏵Support into footer links (thanks @Liir)
+- Added tooltips (thanks @Liir)
 
 ## 02/12/2024
 
