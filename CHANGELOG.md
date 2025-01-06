@@ -11,12 +11,21 @@
 - Improve ⏵Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
 
+## 06/01/2025
+
+- Added a signature of the service owner with a link to Liir's creativity (thanks @Liir)
+- Added Changelog's failed loading information screen (thanks @Liir)
+- Improved Changelog's design (thanks @Liir)
+- Improved Changelog now loads asynchronously (thanks @Liir)
+- Improved loading screen design (thanks @Liir)
+
 ## 07/12/2024
 
+- New Army Creation Kit v53 (thanks @gelewald)
 - Added footer links support (thanks @baktrius)
 - Added helpful links to the footer (thanks @Liir)
 - Added ⏵Support into footer links (thanks @Liir)
-- Added tooltips (thanks @Liir)
+- Added tooltips to important links (thanks @Liir)
 
 ## 02/12/2024
 
