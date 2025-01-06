@@ -18,6 +18,7 @@
 - Improved Changelog's design (thanks @Liir)
 - Improved Changelog now loads asynchronously (thanks @Liir)
 - Improved loading screen design (thanks @Liir)
+- Improved compatibility of Nhex (thanks @Liir)
 
 ## 07/12/2024
 
