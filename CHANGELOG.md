@@ -6,10 +6,15 @@
 ## [Unreleased]
  
 - New Dedicated HexBoard
-- New official army Desert Tribes
 - Improve official armies names in context menu
 - Improve ⏵Resources Template
 - Fix Partizans HQ ability color bug (Instruction too)
+
+## 30/01/2025 v1.1.1
+
+- New official army Desert Tribes (thanks @Liir)
+- Fixed ⏵Tokens now edit and delete properly (thanks @Liir)
+- Security Some updates will have realise - version number that make easier to describe when certain bug occured (thanks @Netq & @Liir)
 
 ## 06/01/2025
 
