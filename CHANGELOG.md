@@ -72,21 +72,21 @@
 - Improved the Markers order- HP is always first except for Partisans which is known issue (thanks @Liir)
 - Removed unnecessary Markers: Most Sharrash players using up to one Paralyze Marker, Iron Gang had two HP Markers & 3 Net Markers etc. (thanks @Liir)
 
-## 26/11/2024
+## 26/11/2024 v1.0.0
 
 - Redesigned entire Nhex website look (thanks @Liir)
 - Added Changelog (thanks @Liir)
 - Added community friendly footer links (thanks @baktrius)
 - Added option to edit army (thanks @baktrius)
 - Added different submenus for custom and private armies (thanks @baktrius)
-- Added Get Random for every army group (thanks @baktrius)
+- Added "Get Random" for every army group (thanks @baktrius)
 - Added shortcuts to spawn Nets & Wounds (thanks @baktrius)
 - Added option for Admin to order Armies in contextmenu (thanks @baktrius)
-- Improved security (thanks @baktrius)
-- Improved stability (thanks @baktrius)
+- Improved security (thanks @baktrius & @Netq)
+- Improved stability (thanks @baktrius & @Netq)
 - Fixed ⏵Tokens Edit Template now remember latest image (thanks @baktrius)
 - Fixed ⏵Table Named Invitations list bug (thanks @baktrius)
-- Fixed Get Random bugs (thanks @baktrius)
+- Fixed "Get Random" bugs (thanks @baktrius)
 - Fixed context menu Utility names visual bug (thanks @baktrius)
 - Fixed Token Spawner color and highlighted visual bug (thanks @baktrius)
 - Security Nhex now uses https (thanks @Netq)
